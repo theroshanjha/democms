@@ -1,0 +1,35 @@
+const colors = {
+    splashBg: "#faf6f7",
+    buttonColor: "#28005C",
+    topBgColor: "#faf6f7",
+    textDesColor: "#adadad",
+    bgColor: "#ffffff",
+    darkOrange: "#FF5F1F",
+    lightCreame:"#fef9f5",
+    darkCreame:"#F5ECEC",
+    lightLavender:"#f6f7fb",
+    textColorinBlack:"#777879",
+    black:"#000",
+    xdDarkPurple:"#28005C",
+    introTextBlackColor:"#242424",
+    nextText:"#FFBF00",
+    invalidCode:"#FF0000",
+    orange:"#FF560C",
+    homeBg:"#F9F9F9",
+    // lightGrey:"#C5C5C5",
+    lightGrey:"#D3D3D3",
+    horizontalLine:'#E2E3E7',
+    lightRed:"#ff726f",
+    discountColor:"#3272df",
+    white:"#FFFFFF",
+    newThemeColor:"#356646",
+    borderthemeCOlor:'#696969',
+    brcolr:'#DADADA',
+    yellow:"#FFD703",
+    cart_green:"#05B254",
+    bg_color:"#36454F",
+    golden:"#FFD700"
+
+}
+
+export default colors;

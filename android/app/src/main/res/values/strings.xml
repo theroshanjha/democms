@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">democms</string>
+    <string name="app_name">SocialMedias</string>
+    <string name="facebook_app_id">1564151510947156</string>
+
 </resources>
